@@ -1,0 +1,34 @@
+{
+  "libros": [
+    {
+      "id": 1,
+      "nombre": "aprendiendo redux",
+      "precio": 17
+    },
+    {
+      "id": 2,
+      "nombre": "aprendiendo redux",
+      "precio": 17
+    },
+    {
+      "nombre": "react router",
+      "precio": "50",
+      "id": 7
+    },
+    {
+      "nombre": "react hooks",
+      "precio": "50",
+      "id": 9
+    },
+    {
+      "nombre": "matematicas",
+      "precio": "49",
+      "id": 10
+    },
+    {
+      "nombre": "geografia",
+      "precio": "49",
+      "id": 11
+    }
+  ]
+}
